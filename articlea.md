@@ -61,8 +61,8 @@ Python has a robust ecosystem supported by a vibrant community. There are numero
 
 Here are some great places to learn more about Python:
 
-- [link](https://www.python.org/) - The official Python website.
-- [link](https://pycon.org/) - A major conference for the Python community.
+- [Python.org](https://www.python.org/) - The official Python website.
+- [PyCon](https://pycon.org/) - A major conference for the Python community.
 
 ### 3.2 Utilizing Python Libraries
 
@@ -85,4 +85,8 @@ Python's broad applicability and ease of use have contributed to its status as a
 As Python continues to evolve, its community grows ever more vibrant, ensuring that it remains at the cutting edge of programming language development. Whether you are a new learner or looking to expand your coding expertise, Python offers a rewarding experience. 
 
 Enjoy exploring Python and remember, the best way to learn is by doing. Start writing your Python code today and become part of the global community of Python developers!
+
+**Lorem ipsum dolor sit amet**
+
+
 
