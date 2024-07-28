@@ -88,7 +88,7 @@ Enjoy exploring Python and remember, the best way to learn is by doing. Start wr
 
 ## Photo
 
-![Photo (Rubaitud Azad,2022)] (APPDEV-108436/photo.jpg)
+![Photo (Rubaitud Azad,2022)](APPDEV-108436/photo.jpg)
 
 
 
